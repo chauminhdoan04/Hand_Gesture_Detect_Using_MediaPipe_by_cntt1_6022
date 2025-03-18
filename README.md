@@ -5,6 +5,18 @@
 
 # Dynamic Hand Gesture Recognition Using MediaPipe and LSTM
 
+## Poster
+
+<p align="center">
+  <img src="docs/images/Poster.jpg" alt="System Architecture" width="800"/>
+</p>
+
+## Architecture  
+
+<p align="center">
+  <img src="docs/images/SoDoHeThong.jpg" alt="System Architecture" width="800"/>
+</p>
+
 This project implements dynamic hand gesture recognition using MediaPipe for hand landmark detection and an LSTM neural network for gesture classification. The repository contains the following files:
 
 - `Inference.py`: Script for real-time hand gesture recognition using a pre-trained LSTM model.
@@ -82,12 +94,16 @@ pip install -r requirements.txt
 ```
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+© 2025 NHÓM 1, CNTT16-02, TRƯỜNG ĐẠI HỌC ĐẠI NAM
 
 ## Acknowledgements
 This project uses the following libraries:
 - [MediaPipe](https://mediapipe.dev/)
 - [OpenCV](https://opencv.org/)
-- [TensorFlow](https://www.tensorflow.org/)
+- [TensorFlow](https://www.tensorflow.org/) <br>
+
+This initiative was directed by those exceptional individuals:
+- ThS. Le Trung Hieu
+- ThS. Tran Thai Khanh
 
 For any questions or issues, please open an issue in the repository.
